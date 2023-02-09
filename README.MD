@@ -4,3 +4,4 @@
 "\n search_branch 작업" 
 "\n 한글이 깨지네요" 
 -e "\n search_branch 작업" 
+"한글은 해결됐는데.. \n" 
